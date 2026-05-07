@@ -29,7 +29,7 @@
 <div class="container my-3">
   <table class="table">
       <thead>
-      <tr class="table-dark">
+      <tr class="table-light">
           <th>번호</th>
           <th>제목</th>
           <th>작성일시</th>
@@ -67,5 +67,5 @@
     </li>
 </ul>
 <!-- 페이징처리 끝 -->
-  <a use:link href="/question-create" class="btn btn-primary">질문 등록하기</a>
+  <a use:link href="/question-create" class="btn bg-light">질문 등록하기</a>
 </div>
